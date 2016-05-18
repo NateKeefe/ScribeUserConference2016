@@ -1,0 +1,5 @@
+﻿<Settings>
+<setting name="ScribeURL">
+   <value>https://endpoint.scribesoft.com/v1/orgs/16551/requests/1741?accesstoken=40834938-1e6c-4fd1-9b9c-d358e7f21f5c</value> 
+ </setting> 
+</Settings>
